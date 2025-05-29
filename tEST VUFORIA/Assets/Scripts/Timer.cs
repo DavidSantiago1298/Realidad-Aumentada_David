@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour
 
     public void StartTimer(float duration)
     {
-        StartCoroutine(RunTimer(duration));
+        _timerCoroutine = StartCoroutine(RunTimer(duration));
     }
 
     private IEnumerator RunTimer(float duration)
