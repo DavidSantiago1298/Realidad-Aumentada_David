@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06234a9fde476034fa9a19c74385a683, type: 3}
-  m_Name: BiteData
+  m_Name: MeillureData
   m_EditorClassIdentifier: 
-  musicName: BiteMarks
-  animationName: Twerk
-  notesConfig: {fileID: 4900000, guid: 619d64ec8ce16074da6c7b0f6fea86e8, type: 3}
+  musicName: Meillure
+  animationName: Meillure
+  notesConfig: {fileID: 4900000, guid: 16478d19d88721d489728271b059ee27, type: 3}
   speed: 200
